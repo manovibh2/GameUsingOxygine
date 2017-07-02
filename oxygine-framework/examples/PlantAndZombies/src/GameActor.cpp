@@ -22,7 +22,7 @@ MainActor::MainActor(Resources& gameResources):previousUS(0),collisionUS(0),bCli
     {
 		setClock( new Clock());
 		createOutline();
-		//addPeeShooters();
+		addPeeShooters();
 
 		
         //create button Sprite
