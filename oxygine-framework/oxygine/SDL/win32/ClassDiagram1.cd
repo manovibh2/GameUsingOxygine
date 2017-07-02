@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="oxygine::Actor" Collapsed="true">
+    <Position X="6.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>xAUQbOzTM4ARhF/WYxRXYkWyGy672TVOTMBDUPZUwSo=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\Actor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::Clock" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCCAAAAAAEAAAgCIAAAAACgAAAIAIAABAEQEBAEEOgA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\Clock.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::DebugActor" Collapsed="true">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EkAgGAAAMAAIQAEQQCEMJBAAAADQAAAIlAAQAIAQAAA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\DebugActor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::ColorRectSprite" Collapsed="true">
+    <Position X="6.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAQAAAAAAAAAAIAGAAgAAAAAAQAAEAAAQAAA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\ColorRectSprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::Sprite" Collapsed="true">
+    <Position X="6.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQCAAFA2ACEACAAAABIAGEYQAgIAgSQKAUgQAAAQI=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\Sprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::VStyleActor" Collapsed="true">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIACAAAAAAAAAAAIAACIAAAACAAAAAAQAAEoAAIAAA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\VisualStyle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::Tween" Collapsed="true">
+    <Position X="10" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEBBBCAERgIAoEE0BRGACEQAiAgAAAYjQEAQQAosIAg=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\Tween.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::EventDispatcher" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAIAAAAAAAAAEAIAwQAAAAAAIABAAAAEAAABAAYAAAA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\EventDispatcher.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::TweenAnim" Collapsed="true">
+    <Position X="13.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAEAwAACgAAAiAAAAAAAAAAgIAIgAAAgAAQEAAA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\TweenAnim.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::TweenAlphaFade" Collapsed="true">
+    <Position X="10.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\TweenAlphaFade.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::TweenProxy" Collapsed="true">
+    <Position X="11.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAQAAAAAAAAAAAAAAAAAAAAAIABAAAAAAEAAA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\Tween.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::Button" Collapsed="true">
+    <Position X="4.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFIAAAEAAgACAAAAgACACAIAAAAgQAAAAAAEAAEAAAQ=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\Button.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::Box9Sprite" Collapsed="true">
+    <Position X="8.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQACBEAQCAAACAAABBKgGAQQAAQARAQACERQAACAA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\Box9Sprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::creator" Collapsed="true">
+    <Position X="2" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEBAAAAAAAAAAAAAAAAAAIAAAAABAAAAAAAg=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\Serialize.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::ClipRectActor" Collapsed="true">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAoEAAAAAAAAABAAAEAIIAAAAAAAAAAAQAAEBAAQAAA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\ClipRectActor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::Object" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAgAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\core\Object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::ObjectBase" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AyIABAQDAEDgAAQAACAAAQIIMgAAAABAABAEAAQQEAA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\core\Object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::Polygon" Collapsed="true">
+    <Position X="2.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIAAAQAAAAAAACAAAAAIACQAAAIABAAQAAEAACAACA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\Polygon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::PoolObject" Collapsed="true">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\core\Object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::ProgressBar" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQAAgAACAAEAOAAAAAIACAKAAAAIAAYAAMAAAAAAA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\ProgressBar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::Resource" Collapsed="true">
+    <Position X="17" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FIIAABAAKoAAAABAAAACAAAQAgACABAAACEgAABEAAA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\res\Resource.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::ResAnim" Collapsed="true">
+    <Position X="16" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAIAgQBCCJQAAIEAIAEEAAAkIAAASAIAIAAAAQCAAAk=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\res\ResAnim.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::ResFont" Collapsed="true">
+    <Position X="17.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIAAQAAAIAAAAAAAAAAAAAAAAAAAAAIAAABAAIAAAA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\res\ResFont.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::ResAtlas" Collapsed="true">
+    <Position X="19.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIAAAACSASAAAAABEAACAAAAAAgAiAAIABAAIIAAAA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\res\ResAtlas.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::ResFontBM" Collapsed="true">
+    <Position X="17.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>WJAAAQAASACAAAAEAAgBAACAABCAoAIIAAJAAAAIEEA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\res\ResFontBM.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::SingleResAnim" Collapsed="true">
+    <Position X="16" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABQAAAgAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\res\SingleResAnim.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::SlidingActor" Collapsed="true">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIAAABAAwIAQBAbwgAFJEBAACAgAAAATgEIBAAgAJA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\SlidingActor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::Stage" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIAAAAAAgAAAACAAEADAAUAAABAICIgACgBAAQUAAA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\Stage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::STDRenderer" Collapsed="true">
+    <Position X="19.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>XAACgBAGAQEABBIkA4MOBohREARKEAkkhCjoAASgwBA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\STDRenderer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::TextField" Collapsed="true">
+    <Position X="4.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>lkIhCEWAEQCQQAiAAAABKADAAQVBkAAIwAAUHCBACBA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\TextField.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::ThreadLoader" Collapsed="true">
+    <Position X="11.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIQAAABAApAAACAhCBABAAAAEAAAAAAAAACABAACAAA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\ThreadLoader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::TweenGlow" Collapsed="true">
+    <Position X="12.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\TweenGlow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::TweenOptions" Collapsed="true">
+    <Position X="14.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABIIEAgAAAAAABBAAAAggAAAABAQQAICQAAAEAAI=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\Actor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::TweenOutline" Collapsed="true">
+    <Position X="14" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\TweenOutline.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::TweenQueue" Collapsed="true">
+    <Position X="10" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAgAAgAEAAAAAAAAAAAAAAAAAAABARAACAAA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\TweenQueue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oxygine::TweenT&lt;GS&gt;" Collapsed="true">
+    <Position X="11.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAEAAQEAABAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>D:\SampleApplications\oxygine-framework-with-sdl\oxygine-framework\oxygine\src\Tween.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
